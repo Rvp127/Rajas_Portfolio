@@ -2,6 +2,7 @@
 Example data analytics portfolio
 
 # Project 1: Google Data Analytics Course Capstone Project: Case study 1, Cyclist Bike Share
+I've been working on the Google Data Analytics Professional Certificate through Coursera. This has been a very insightful course that has included Tableau, R programming, SQL and key data analyst terminologies and processes. Below is my walkthrough of Case Study 1 within the course using various tools and methods.
 * The project is a part of Google Data Analytics Certification course capstone.
 * The scenario involves analysis of the trip data of Cyclistic bike share company.
 * Working as a junior data analyst in the marketing analyst team at Cyclistic, The director of marketing believes the company’s future success depends on maximizing the number of annual memberships.
