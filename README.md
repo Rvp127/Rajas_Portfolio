@@ -1,7 +1,7 @@
 # Rajas_Portfolio
 Example data analytics portfolio
 
-![]()
+![](https://github.com/Rvp127/Rajas_Portfolio/blob/main/images/321.jpg)
 
 # [Project 1: Google Data Analytics Course Capstone Project: Case study 1, Cyclist Bike Share](https://www.kaggle.com/code/rajasprasad/cyclistic-new)
 I've been working on the Google Data Analytics Professional Certificate through Coursera. This has been a very insightful course that has included Tableau, R programming, SQL and key data analyst terminologies and processes. Below is my walkthrough of Case Study 1 within the course using various tools and methods.
