@@ -12,4 +12,5 @@ I've been working on the Google Data Analytics Professional Certificate through 
 
 ![](https://github.com/Rvp127/Rajas_Portfolio/blob/main/images/321.jpg)
 
-# Project 2: 
+# [Project 2: Demonstration of music recommendation based on age and gender using decision tree classification](https://github.com/Rvp127/Music_Recommendation-DT-)
+Imagine we have an online music store, when our users sign up we ask their age, gender and profile details. Based on their details we recommend various msic albums that they are likely to buy. So in this project we build a machine learning model to increase sales. We feed sample data to the model based on exisiting users. Our model will learn patterns form our data to ask and make predictions when a new user signs up. So we tell our model we have a new user with this profile, what is the kind of music that this user is interested, and our model will suggest the genre like jazz, hip-hop, etc. Based on this we can make suggestions to the user.
