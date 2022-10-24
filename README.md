@@ -20,4 +20,6 @@ Imagine we have an online music store, when our users sign up we ask their age, 
 # [Project 3: Identification of Lymphocyte WBC from blood smear images](https://github.com/Rvp127/Identification_of_lymphocyte_WBC_in_Blood)
 Blood contains Red blood cells (RBC) and White blood cells (WBC). WBC are more darker and bigger in size. There are five types of WBC :  Neutrophils, Monocytes, Eosinophils, Lymphocytes, Basophils. Here the Lymphocytes are darker and circular in shape compared to other types. From blood smear microscopic image we identify the WBC cells and in those mark the Lymphocytes (which are closer to circular in shape).
 
+![](https://github.com/Rvp127/Rajas_Portfolio/blob/main/images/lymph1.jpg)
+
 
