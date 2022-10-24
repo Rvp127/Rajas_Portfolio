@@ -11,3 +11,5 @@ I've been working on the Google Data Analytics Professional Certificate through 
 * Maximizing the number of Cyclist members will be key to future growth as it ensures financial sustainability and customer retention.
 
 ![](https://github.com/Rvp127/Rajas_Portfolio/blob/main/images/321.jpg)
+
+# Project 2: 
