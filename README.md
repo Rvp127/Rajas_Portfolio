@@ -16,3 +16,8 @@ I've been working on the Google Data Analytics Professional Certificate through 
 Imagine we have an online music store, when our users sign up we ask their age, gender and profile details. Based on their details we recommend various msic albums that they are likely to buy. So in this project we build a machine learning model to increase sales. We feed sample data to the model based on exisiting users. Our model will learn patterns form our data to ask and make predictions when a new user signs up. So we tell our model we have a new user with this profile, what is the kind of music that this user is interested, and our model will suggest the genre like jazz, hip-hop, etc. Based on this we can make suggestions to the user.
 
 ![](https://github.com/Rvp127/Rajas_Portfolio/blob/main/images/456.jpg)
+
+# [Project 3: Identification of Lymphocyte WBC from blood smear images](https://github.com/Rvp127/Identification_of_lymphocyte_WBC_in_Blood)
+Blood contains Red blood cells (RBC) and White blood cells (WBC). WBC are more darker and bigger in size. There are five types of WBC :  Neutrophils, Monocytes, Eosinophils, Lymphocytes, Basophils. Here the Lymphocytes are darker and circular in shape compared to other types. From blood smear microscopic image we identify the WBC cells and in those mark the Lymphocytes (which are closer to circular in shape).
+
+
