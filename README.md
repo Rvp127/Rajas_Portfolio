@@ -10,4 +10,4 @@ I've been working on the Google Data Analytics Professional Certificate through 
 * The company operates in Chicago with around 6000 bicycles at 700 stations.
 * Maximizing the number of Cyclist members will be key to future growth as it ensures financial sustainability and customer retention.
 
-![](https://github.com/Rvp127/Rajas_Portfolio/blob/main/images/123.jpg) ![](https://github.com/Rvp127/Rajas_Portfolio/blob/main/images/321.jpg)
+![](https://github.com/Rvp127/Rajas_Portfolio/blob/main/images/321.jpg)
