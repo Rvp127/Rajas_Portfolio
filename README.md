@@ -22,7 +22,7 @@ Blood contains Red blood cells (RBC) and White blood cells (WBC). WBC are more d
 
 ![](images/lymph1.jpg)
 
-# Project 4: Health-Care Chatbot Using AI
+# [Project 4: Health-Care Chatbot Using AI](https://github.com/Rvp127/Healthcare_chat-bot-using-neural-network)
 * Health-Care Chatbots are are simulators that can understand human language, process it and interact back to user while performing specific tasks.
 * Majority of hospitals, nursing homes, and even private centers, presently utilize online Chatbots for human services on their sites.
 * The chatbot i'm building is interactive to the user by answering questions from user that can diagnose and provide basic details about the disease before consulting the doctor.
