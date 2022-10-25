@@ -27,6 +27,7 @@ Blood contains Red blood cells (RBC) and White blood cells (WBC). WBC are more d
 * Majority of hospitals, nursing homes, and even private centers, presently utilize online Chatbots for human services on their sites.
 * The chatbot i'm building is interactive to the user by answering questions from user that can diagnose and provide basic details about the disease before consulting the doctor.
 
+![](images/health.jpg)
 
 
 
