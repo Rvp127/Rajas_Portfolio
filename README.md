@@ -4,8 +4,9 @@ Example data analytics portfolio
 # [Project 1: Google Data Analytics Course Capstone Project: Case study 1, Cyclist Bike Share](https://www.kaggle.com/code/rajasprasad/cyclistic-new)
 I've been working on the Google Data Analytics Professional Certificate through Coursera. This has been a very insightful course that has included Tableau, R programming, SQL and key data analyst terminologies and processes. Below is my walkthrough of Case Study 1 within the course using various tools and methods.
 * The scenario involves analysis of the trip data of Cyclistic bike share company.
-* Working as a junior data analyst in the marketing analyst team at Cyclistic, The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. This will be key to future growth as it ensures financial sustainability and customer retention.
 * The company operates in Chicago with around 6000 bicycles at 700 stations.
+* Working as a junior data analyst in the marketing analyst team at Cyclistic, The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. This will be key to future growth as it ensures financial sustainability and customer retention.
+
 
 ## Breifing the Analysis Process
 
@@ -13,8 +14,6 @@ I've been working on the Google Data Analytics Professional Certificate through 
 So we now ask the right questions
 1. What are the differences in bike usage among “Casual” & “Cyclist” ?
 2. How to encourage “Casual” users to become “Cyclist’ users?
-
-
 * **Prepare**: 
 
 ![](images/789.jpg)
