@@ -6,11 +6,13 @@ I've been working on the Google Data Analytics Professional Certificate through 
 * The scenario involves analysis of the trip data of Cyclistic bike share company.
 * Working as a junior data analyst in the marketing analyst team at Cyclistic, The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. This will be key to future growth as it ensures financial sustainability and customer retention.
 * The company operates in Chicago with around 6000 bicycles at 700 stations.
-**Breifing the Analysis Process**
+
+## Breifing the Analysis Process
+
 * **Ask**: The company deals in promoting bike-sharing price details to members. 2 types of members are offered by this company **“Casual”(Single rides)** & **“Cyclist”(Annual rides)**. 
 So we now ask the right questions
-a) What are the differences in bike usage among “Casual” & “Cyclist” ?
-b) How to encourage “Casual” users to become “Cyclist’ users?
+1. What are the differences in bike usage among “Casual” & “Cyclist” ?
+2. How to encourage “Casual” users to become “Cyclist’ users?
 
 
 * **Prepare**: 
