@@ -14,7 +14,16 @@ I've been working on the Google Data Analytics Professional Certificate through 
 So we now ask the right questions
 1. What are the differences in bike usage among “Casual” & “Cyclist” ?
 2. How to encourage “Casual” users to become “Cyclist’ users?
-* **Prepare**: 
+
+* **Prepare**: Here the company requires better understanding about the data they are working on (Public or Private). More information regarding the details of the dataset are considered like **start & end stations, ride times, member/casual riders** and **station latitude** and **longitude**.
+
+* **Process**: From the relevant information gained we process and create a new dataset having **trimmed** some columns from the original dataset. Here we perform the **data-cleaning**.
+
+* **Analyze**: We now perform **data-visualization** by plotting trend patterns of bike share demands that include: **Aggregate ride trips into groups, Monthly overview, Member analysis, Popular start and end stations, Periodic trend analysis, Bike type analysis** & **Geographic trend analysis**.
+
+* **Share**: Here we summarize the Potential Customer needs and make Conclusions for all discovered trends. Then we contribute **insights** for representing our **key findings**.
+
+* **Act**: This final phase will determine the progress in the **marketing campaign** for targeting measures to convert **single ride members** to become **annual ride members**.
 
 ![](images/789.jpg)
 
