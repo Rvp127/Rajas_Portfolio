@@ -46,7 +46,7 @@ Blood contains Red blood cells (RBC) and White blood cells (WBC). WBCs are darke
 
 # Project 5: NBA stats Analysis
 
-![](images/NBA Logo and symbol, meaning, history, PNG, brand.jpeg)
+![](images/NBA_LOgo.png)
 
 [Code for web scraping](https://colab.research.google.com/drive/1rYysZsmr2u371yWDzcIOAVCt8PzioLEb?usp=sharing)
 
