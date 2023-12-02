@@ -46,8 +46,6 @@ Blood contains Red blood cells (RBC) and White blood cells (WBC). WBCs are darke
 
 # Project 5: NBA stats Analysis
 
-![](images/NBA_LOgo.png)
-
 [Code for web scraping](https://colab.research.google.com/drive/1rYysZsmr2u371yWDzcIOAVCt8PzioLEb?usp=sharing)
 
 * Covers how to web scrape data from website URL
@@ -60,5 +58,7 @@ Blood contains Red blood cells (RBC) and White blood cells (WBC). WBCs are darke
 * Provided correlation of NBA stats to understand the game metrics
 * Analysed how minutes played affected players in the Regular and Playoffs season
 * Analysed the shift in the game for a 10-year period that included NBA stats along with Regular and Playoffs season
+
+![](images/NBA_LOgo.png)
 
 
