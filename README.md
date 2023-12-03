@@ -50,7 +50,7 @@ Blood contains Red blood cells (RBC) and White blood cells (WBC). WBCs are darke
 
 * Covers how to web scrape data from website URL
 * Stats dataset was scrapped to python kernel i.e.; Colab notebook
-* Currently the dataset was available for the 2013-14 season, later manipulated from the 2013-14 season to the 2022-13 season
+* Currently the dataset was available for the 2013-14 season, later manipulated from the 2013-14 season to the 2022-23 season
 * The 10-year dataset contained for both the Regular & Playoffs season
 
 [Code for analysis](https://colab.research.google.com/drive/1njgTQecqUSrzVQkNkkQQkaOsfiknD50B?usp=sharing)
