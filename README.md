@@ -25,6 +25,8 @@ So we now ask the right questions
 
 * **Act**: This final phase will determine the progress in the **marketing campaign** for targeting measures to convert **single ride members** to become **annual ride members**.
 
+* ***Conclusion***: In summary, analysis of Cyclistic bike-sharing data reveals that Annual members ride at a significantly faster pace than casual riders for similar trip distances, especially favoring classic bikes. While classic bikes are the preferred choice for both user types, docked bikes are the least popular. Excluding weekends, casual riders constitute 36.4% of the average weekday rides. Geographic trends highlight popular start stations, with Streeter Dr having the highest traffic but a higher proportion of casual riders compared to Annual members. Notably, Wells St is the sole site where Annual member rides surpass casual rides.
+
 ![](images/789.jpg)
 
 # [Project 2: Demonstration of music recommendation based on age and gender using decision tree classification](https://github.com/Rvp127/Music_Recommendation-DT-)
